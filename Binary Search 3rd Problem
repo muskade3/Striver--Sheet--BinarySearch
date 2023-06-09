@@ -1,3 +1,5 @@
+# Single Element in a Sorted Array
+
 class Solution {
     public int singleNonDuplicate(int[] nums) {
     int x=0;
